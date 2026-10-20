@@ -1,0 +1,11 @@
+torch>=2.0
+torchvision>=0.15
+timm>=0.9
+numpy
+pandas
+scipy
+scikit-learn
+pillow
+imagehash
+matplotlib
+statsmodels

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or the split files, please cite the paper."
+title: "From benchmark to field: auditing image-based recognition of agricultural weather hazards on a real frost-damage event (code and data)"
+authors:
+  - family-names: "N"
+    given-names: "Chandiraprakash"
+    affiliation: "SRM Institute of Science and Technology"
+  - family-names: "Chinnasamy"
+    given-names: "A."
+    affiliation: "SRM Institute of Science and Technology"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-19"
