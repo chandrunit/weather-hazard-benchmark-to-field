@@ -1,0 +1,13 @@
+dataset,dist_band,pairs,pct_cross_label,median_ncc,pct_ncc_ge_verify
+plantdoc-dataset,0-0,38,42.1,1.0,100.0
+plantdoc-dataset,1-2,9,22.2,0.986,100.0
+plantdoc-dataset,3-4,5,0.0,0.966,80.0
+plantdoc-dataset,5-6,8,37.5,0.894,50.0
+plantdoc-dataset,7-8,8,25.0,0.877,37.5
+plantdoc-dataset,9-10,12,16.7,0.813,16.7
+plantvillage-dataset,0-0,22,0.0,1.0,100.0
+plantvillage-dataset,1-2,96,6.2,0.874,36.5
+plantvillage-dataset,3-4,1347,21.8,0.836,10.8
+plantvillage-dataset,5-6,9048,34.8,0.806,3.5
+plantvillage-dataset,7-8,44223,47.7,0.766,0.9
+plantvillage-dataset,9-10,177381,60.7,0.72,0.3

@@ -1,0 +1,4 @@
+model,no_shift_coverage,no_shift_alarm_empty,no_shift_alarm_KS,benign_shift_coverage,benign_alarm_empty,benign_alarm_KS
+swin_tiny_patch4_window7_224,0.9005936507936511,0.0,0.045,0.9523857087176063,0.0,0.465
+convnext_tiny,0.9011079365079367,0.004,0.051,0.9434187143734191,0.0,0.882
+resnet50,0.9031396825396827,0.0,0.039,0.9505723721357286,0.0,0.783

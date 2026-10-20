@@ -1,0 +1,11 @@
+,,,test_auroc,test_auroc,test_bal_acc,test_bal_acc,test_macro_f1,test_macro_f1
+,,,mean,std,mean,std,mean,std
+variant,backbone,init,,,,,,
+early_stop_inner_pool,convnext_tiny,imagenet,0.9732,0.009,0.8986,0.0777,0.8836,0.0917
+early_stop_inner_pool,convnext_tiny,weapd,0.9769,0.0046,0.9387,0.0187,0.9293,0.0223
+early_stop_inner_pool,swin_tiny_patch4_window7_224,imagenet,0.9761,0.0043,0.9399,0.0109,0.9328,0.01
+early_stop_inner_pool,swin_tiny_patch4_window7_224,weapd,0.9696,0.0026,0.9295,0.0166,0.9249,0.0135
+fixed_epochs,convnext_tiny,imagenet,0.9777,0.008,0.9492,0.0034,0.9427,0.0042
+fixed_epochs,convnext_tiny,weapd,0.9743,0.007,0.9411,0.0082,0.9329,0.0097
+fixed_epochs,swin_tiny_patch4_window7_224,imagenet,0.9768,0.004,0.9416,0.0109,0.9352,0.0108
+fixed_epochs,swin_tiny_patch4_window7_224,weapd,0.969,0.0027,0.9395,0.0007,0.9327,0.0001

@@ -1,0 +1,17 @@
+backbone,init,n_cal,cov_mean,cov_p5,cov_below_0_90,defer_mean
+convnext_tiny,imagenet,20,0.958,0.908,0.034,0.211
+convnext_tiny,imagenet,50,0.963,0.941,0.0,0.215
+convnext_tiny,imagenet,100,0.953,0.941,0.0,0.145
+convnext_tiny,imagenet,184,0.952,0.952,0.0,0.137
+convnext_tiny,weapd,20,0.964,0.9,0.046,0.344
+convnext_tiny,weapd,50,0.97,0.923,0.0,0.323
+convnext_tiny,weapd,100,0.962,0.934,0.0,0.208
+convnext_tiny,weapd,184,0.963,0.963,0.0,0.196
+swin_tiny_patch4_window7_224,imagenet,20,0.968,0.923,0.024,0.273
+swin_tiny_patch4_window7_224,imagenet,50,0.972,0.937,0.002,0.269
+swin_tiny_patch4_window7_224,imagenet,100,0.962,0.948,0.0,0.184
+swin_tiny_patch4_window7_224,imagenet,184,0.963,0.963,0.0,0.185
+swin_tiny_patch4_window7_224,weapd,20,0.967,0.908,0.022,0.299
+swin_tiny_patch4_window7_224,weapd,50,0.974,0.937,0.0,0.326
+swin_tiny_patch4_window7_224,weapd,100,0.963,0.937,0.0,0.178
+swin_tiny_patch4_window7_224,weapd,184,0.963,0.963,0.0,0.144

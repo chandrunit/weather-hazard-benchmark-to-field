@@ -1,0 +1,13 @@
+dataset,rule,images,classes,pairs,dup_groups,images_in_dup_groups,pct_images_in_dup_groups,redundant_copies,pct_redundant,images_in_label_conflict,pct_official_test_leaked,pct_test_leaked_naive_random_split
+plantdoc-dataset,md5_only,2922,28,0,6,12,0.41,6,0.21,10,2.38,0.28
+plantdoc-dataset,phash_le_2,2922,28,47,45,91,3.11,46,1.57,35,4.37,2.46
+plantdoc-dataset,phash_le_4,2922,28,52,50,101,3.46,51,1.75,35,4.76,2.73
+plantdoc-dataset,phash_le_6,2922,28,60,58,117,4.0,59,2.02,41,5.56,3.17
+plantdoc-dataset,phash_le_8,2922,28,68,66,133,4.55,67,2.29,45,6.35,3.58
+plantdoc-dataset,verified_le_10_ncc_0.9,2922,28,60,58,117,4.0,59,2.02,37,5.56,3.04
+plantvillage-dataset,md5_only,54305,38,0,21,42,0.08,21,0.04,0,,0.07
+plantvillage-dataset,phash_le_2,54305,38,118,111,229,0.42,118,0.22,13,,0.34
+plantvillage-dataset,phash_le_4,54305,38,1465,510,1738,3.2,1228,2.26,881,,2.86
+plantvillage-dataset,phash_le_6,54305,38,10513,1201,6411,11.81,5210,9.59,4808,,11.04
+plantvillage-dataset,phash_le_8,54305,38,54736,1704,15795,29.09,14091,25.95,13589,,28.04
+plantvillage-dataset,verified_le_10_ncc_0.9,54305,38,1426,661,1951,3.59,1290,2.38,463,,3.23

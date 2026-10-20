@@ -1,0 +1,5 @@
+backbone,y,dew,frost,glaze,hail,rain,sandstorm,snow
+convnext_tiny,0,27,168,163,4,30,0,1
+convnext_tiny,1,31,156,287,2,16,24,0
+swin_tiny_patch4_window7_224,0,53,80,199,2,59,0,0
+swin_tiny_patch4_window7_224,1,49,207,228,3,12,17,0
