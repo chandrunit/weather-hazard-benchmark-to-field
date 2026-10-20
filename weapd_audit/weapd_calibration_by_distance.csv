@@ -1,0 +1,7 @@
+dataset,dist_band,pairs,pct_cross_label
+WEAPD,0-0,385,0.3
+WEAPD,1-2,103,1.0
+WEAPD,3-4,60,6.7
+WEAPD,5-6,53,0.0
+WEAPD,7-8,63,0.0
+WEAPD,9-10,90,18.9
